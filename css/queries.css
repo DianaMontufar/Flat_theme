@@ -1,0 +1,8 @@
+@media screen and (min-width:320px){
+	.carousel-inner {
+    	height: 540px;
+	}
+	.carousel-inner>.item>img{
+        height: 540px;
+	}
+}
